@@ -1,6 +1,6 @@
 {
   "name": "jsreport-sql-store",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "Base implementation for stores using sql",
   "main": "index.js",
   "directories": {
@@ -13,8 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/jsreport/jsreport-sql-store.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jan Blaha",
   "bugs": {
     "url": "https://github.com/jsreport/jsreport-sql-store/issues"
   },
