@@ -1,6 +1,6 @@
 {
   "name": "jsreport-sql-store",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Base implementation for stores using sql",
   "main": "index.js",
   "directories": {
