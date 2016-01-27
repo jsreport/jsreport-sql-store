@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/jsreport/jsreport-sql-store#readme",
   "dependencies": {
-    "jsreport-core": "^0.2.1",
-    "lodash": "4.0.0",
+    "jsreport-core": "^0.3.0",
+    "lodash": "4.0.1",
     "odata-to-sql": "0.1.1",
     "q": "1.4.1",
     "uuid": "2.0.1"
