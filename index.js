@@ -1,3 +1,3 @@
-var SqlProvider = require('./lib/sqlProvider')
+const SqlProvider = require('./lib/sqlProvider')
 
 module.exports = SqlProvider
