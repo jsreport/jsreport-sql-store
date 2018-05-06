@@ -1,6 +1,6 @@
 {
   "name": "jsreport-sql-store",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "description": "Base implementation for stores using sql",
   "main": "index.js",
   "directories": {
@@ -19,15 +19,13 @@
   },
   "homepage": "https://github.com/jsreport/jsreport-sql-store#readme",
   "dependencies": {
-    "jsreport-core": "^0.3.0",
-    "lodash": "4.0.1",
-    "odata-to-sql": "0.1.1",
-    "q": "1.4.1",
-    "uuid": "2.0.1"
+    "bluebird": "3.5.1",
+    "odata-to-sql": "0.2.0",
+    "uuid": "3.2.1"
   },
   "devDependencies": {
-    "eslint": "^1.10.3",
-    "eslint-config-standard": "^4.4.0",
-    "standard": "^5.4.1"
+    "eslint": "4.19.1",
+    "eslint-config-standard": "11.0.0",
+    "standard": "11.0.1"
   }
 }
