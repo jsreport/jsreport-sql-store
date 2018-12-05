@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/jsreport/jsreport-sql-store#readme",
   "dependencies": {
-    "bluebird": "3.5.1",
-    "odata-to-sql": "0.3.0",
+    "bluebird": "3.5.3",
+    "odata-to-sql": "0.4.0",
     "uuid": "3.2.1"
   },
   "devDependencies": {
