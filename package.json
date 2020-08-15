@@ -20,7 +20,7 @@
   "homepage": "https://github.com/jsreport/jsreport-sql-store#readme",
   "dependencies": {
     "bluebird": "3.5.3",
-    "odata-to-sql": "pofider/node-odata-to-sql",
+    "odata-to-sql": "0.6.0",
     "uuid": "3.3.2"
   },
   "devDependencies": {
