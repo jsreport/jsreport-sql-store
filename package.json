@@ -1,6 +1,6 @@
 {
   "name": "jsreport-sql-store",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Base implementation for stores using sql",
   "main": "index.js",
   "directories": {
@@ -20,7 +20,7 @@
   "homepage": "https://github.com/jsreport/jsreport-sql-store#readme",
   "dependencies": {
     "bluebird": "3.5.3",
-    "odata-to-sql": "0.9.0",
+    "odata-to-sql": "0.10.0",
     "uuid": "3.3.2"
   },
   "devDependencies": {
